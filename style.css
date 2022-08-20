@@ -1,0 +1,17 @@
+.note
+{
+    font-size: small;
+}
+.heading
+{
+    width: 1000px;
+    border-radius: 50px;
+}
+#song_name
+{
+    margin: 2px;
+}
+body
+{
+    background-size:cover;
+}
